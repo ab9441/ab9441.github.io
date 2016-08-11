@@ -42,6 +42,10 @@ var rules = {
   ],
   "~*x What is my name ~*y": [
     "How am I supposed to know",
+   ],
+  "~*x why is the sky blue ~*y": [
+    "Look it up",
+  
   ],
   "~*x sorry ~*y": [
     "Please don't apologize",
